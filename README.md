@@ -10,4 +10,4 @@ Divi Espana : <a title="Tema Wordpress Divi" href="https://divi-elegantthemes.es
 
 Divi International : <a title="Divi Wordpress theme" href="https://divi-elegantthemes.com/" target="_blank">Divi Wordpress Theme</a>
 
-Divi Portugal & Brazil :<a title="Tema Wordpress Divi" href="https://temawpdivi.com/" target="_blank">Tema Wordpress Divi</a>
+Divi Brazil :<a title="Tema Wordpress Divi" href="https://temawpdivi.com/" target="_blank">Tema Wordpress Divi</a>
