@@ -4,7 +4,7 @@ More info on Divi Wordpress theme available below :
 
 Divi France : <a title="Theme Wordpress Divi" href="http://divi-elegantthemes.fr/" target="_blank">Theme Wordpress Divi</a>
 
-Divi Italia : <a title="Tema Wordpress Divi" href="https://divi-elegantthemes.it/" target="_blank">Tema Wordpress Divi</a>
+Divi Italy : <a title="Tema Wordpress Divi" href="https://divi-elegantthemes.it/" target="_blank">Tema Wordpress Divi</a>
 
 Divi Espana : <a title="Tema Wordpress Divi" href="https://divi-elegantthemes.es/" target="_blank">Tema Wordpress Divi</a>
 
