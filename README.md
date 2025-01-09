@@ -6,7 +6,7 @@ Divi France : <a title="Theme Wordpress Divi" href="http://divi-elegantthemes.fr
 
 Divi Italy : <a title="Tema Wordpress Divi" href="https://divi-elegantthemes.it/" target="_blank">Tema Wordpress Divi</a>
 
-Divi Espana : <a title="Tema Wordpress Divi" href="https://divi-elegantthemes.es/" target="_blank">Tema Wordpress Divi</a>
+Divi Spain : <a title="Tema Wordpress Divi" href="https://divi-elegantthemes.es/" target="_blank">Tema Wordpress Divi</a>
 
 Divi World : <a title="Divi Wordpress theme" href="https://divi-elegantthemes.com/" target="_blank">Divi Wordpress Theme</a>
 
