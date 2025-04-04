@@ -1,6 +1,6 @@
 # theme-wordpress-divi
 
-More info on Divi Wordpress theme available below : 
+More info on Divi Wordpress theme available below: 
 
 Divi France : <a title="Theme Wordpress Divi" href="http://divi-elegantthemes.fr/" target="_blank">Theme Wordpress Divi</a>
 
